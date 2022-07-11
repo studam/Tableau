@@ -1,8 +1,6 @@
-# Tableau Homework - Citi Bike Analytics
+# Tableau Challenge - Citi Bike Analytics
 
 ### Before You Begin
-
-* This assignment will be saved to your Tableau Public account rather than GitHub. 
 
 * If you haven't already, be sure to create a Tableau Public account [here](https://public.tableau.com/s/).
 
@@ -10,7 +8,7 @@
 
 * You are able to load and continue working on the same workbook.
 
-* When you are finished with your assignment, you will turn in the URL to your Tableau Public workbook along with any additional files used for your analysis. 
+* When you are finished with your challenge, you will turn in the URL to your Tableau Public workbook along with any additional files used for your analysis. 
 
 ## Background
 
@@ -82,31 +80,11 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 Remember, the people reading your analysis will **NOT** be data analysts. Your audience will be city officials, public administrators, and heads of New York City departments. Your data and analysis needs to be presented in a way that is focused, concise, easy-to-understand, and visually compelling. Your visualizations should be colorful enough to be included in press releases, and your analysis should be thoughtful enough for dictating programmatic changes. 
 
-## Submission 
 
-Your final submission should include:
-
-* A link to your Tableau Public workbook that includes: 
-  * 4-10 Total "Phenomenon" Visualizations 
-  * 2 Dashboards
-  * 1 City Official Map
-  * 1 Story 
-* A text or markdown file with your analysis on the phenomenons you uncovered from the data.
-
-## Sharing Your Work
-In order to share your work, we are asking that you will save your workbook as a .twbx file so that your TA's can grade them.
 
 To save your workbook as a .twbx file, you will just need to select "Save As..." from the "File" dropdown. Then, select the .twbx option.
 
-## Assessment
 
-Your final product will be assessed on the following metrics:
-
-* Analytic Rigor
-
-* Readability
-
-* Visual Attraction
 
 
 ## Hints
@@ -137,10 +115,6 @@ Your final product will be assessed on the following metrics:
 
 * Good luck!
 
-## Rubric
 
-[Unit 18 Rubric - Tableau Homework - Citi Bike Analytics](https://docs.google.com/document/d/11hlhJnKmEJgRYL3mUxRcdrz4AIxBU5PXW5fYrRYvgW8/edit?usp=sharing)
-
-- - -
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
